@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @Sparky983
 - 🔭 I’m currently working on [Celestial](https://github.com/celestial-mc)
-- 🌱 I’m currently learning Kotlin and Micronaut Framework
+- 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Java
 - 📫 How to reach me: Sparky#1068
 - ⚡ Fun fact: I love Minecraft
