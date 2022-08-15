@@ -11,7 +11,6 @@
 - 👋 Hi, I’m @Sparky983
 - 🔭 I’m currently working on [Celestial](https://github.com/celestial-mc)
 - 🌱 I’m currently learning Kotlin
-- 💬 Ask me about Java
 - 📫 How to reach me: Sparky#1068
 - ⚡ Fun fact: I love Minecraft
 
@@ -20,12 +19,6 @@
 <p align="center">
     <a href="https://discord.com/users/553780289869185034">
         <img alt="My discord" src="https://lanyard.cnrad.dev/api/553780289869185034?hideBadges=true&hideStatus=true">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/sparky983">
-        <img alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparky983&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
     </a>
 </p>
 
