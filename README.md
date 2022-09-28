@@ -27,3 +27,11 @@
         <img alt="Wakatime profile" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sparky&layout=compact&langs_count=5&&theme=dracula&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10">
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/sparky983">
+        <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=sparky983&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
+    </a>
+</p>
+
+#
