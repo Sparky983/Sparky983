@@ -24,7 +24,7 @@ copies or substantial portions of the Software.
 
 - 👋 Hi, I’m @Sparky983
 - 🔭 I’m currently working on [Celestial](https://github.com/celestial-mc)
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: Sparky#1068
 - ⚡ Fun fact: I love Minecraft
 
