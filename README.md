@@ -23,10 +23,9 @@ copies or substantial portions of the Software.
 ### Hi there 👋
 
 - 👋 Hi, I’m @Sparky983
-- 🔭 I’m currently working on [Celestial](https://github.com/celestial-mc)
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on [Nebula](https://github.com/nebula-mc)
 - 📫 How to reach me: Sparky#1068
-- ⚡ Fun fact: I love Minecraft
+- ⚡ Fun fact: My favourite language is Java
 
 --- 
 
